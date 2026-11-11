@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=B13FDAFF&size=32&center=true&vCenter=true&width=700&height=150&lines=Hi+👋,+me+my+self+Ravi+Ranjan+Kumar;Web+Developer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=B13FDAFF&size=32&center=true&vCenter=true&width=700&height=150&lines=Hi+👋,+me+my+self+Sahil+Kumar;Web+Developer"/>
   <br/>
   <img src="https://blog.rapidapi.com/wp-content/uploads/2017/01/octocat.gif" align="center" height="150" width="150" />
   <br/>

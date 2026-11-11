@@ -13,7 +13,6 @@
 - 🌱 I’m currently learning DSA in Cpp
 - 🤖 AI Prompt Engineer
 - ❓ Ask me about anything related to Web Development and Prompt Engineering related technologies
-- 📚 I’m an ECE undergraduate student of the 2022-26 batch
 - ⚡ Fun fact: The term "computer bug" was popularized when an actual moth was found causing an error by getting stuck in a computer relay in 1947. 🐛
 
 ---

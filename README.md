@@ -55,7 +55,7 @@
   <a href="https://www.linkedin.com/in/raviranjankumar8904/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px;" />
   </a>
-  <a href="https://www.instagram.com/rvi.jpg/" target="_blank">
+  <a href="https://www.instagram.com/sahil.kr.jpg/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 5px;" />
   </a>
 </div>
